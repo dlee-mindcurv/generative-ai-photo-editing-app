@@ -44,11 +44,10 @@ This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
+* [SAM (Segment Anything Model)](https://github.com/facebookresearch/segment-anything) - Image segmentation
+* [Stable Diffusion XL](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) - Inpainting pipeline
+* [Gradio](https://www.gradio.app/) - Interactive web UI
+* [Claude Code](https://claude.ai/claude-code) - AI coding assistant by Anthropic
 
 ## License
 
